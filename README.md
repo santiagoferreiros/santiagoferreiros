@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Santiago
 
-<!--
-**santiagoferreiros/santiagoferreiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm independent machine learning engineer and university professor with more than 13 years of experience teaching engineering subjects in the fields of mathematics and programming.
 
-Here are some ideas to get you started:
+I have a bachelor's degree in Information Systems Engineering (Universidad Tecnológica Nacional - Argentina 🇦🇷), and a master degree in Complex Systems Engineering (Université de technologie de Troyes - France). Since machine learning is my passion, I did a specialization offered by Google Cloud Training and other in Natural Language Processing (NLP) offered by deeplearning.ia
+
+I'm interested in developing my professional career in machine learning applying my acquired knowledge and experience at implementing systems with a positive impact on our society.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Generative Adversarial Networks (GAN's) 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
