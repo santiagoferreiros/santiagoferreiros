@@ -1,4 +1,4 @@
-#### Hi there 👋, I am Santiago 😊 :fr: :ar:
+#### Hi there 👋, I am Santiago 😊
 
 I'm independent machine learning engineer and university professor with more than 13 years of experience teaching engineering subjects in the fields of mathematics and programming. I'm interested in developing my professional career in machine learning applying my acquired knowledge and experience at implementing systems with a positive impact on our society.
 
