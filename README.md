@@ -1,4 +1,4 @@
-#### Hi there 👋, I am Santiago 😊
+#### Hi there 👋, I am Santiago 😊 :fr: :ar:
 
 I'm independent machine learning engineer and university professor with more than 13 years of experience teaching engineering subjects in the fields of mathematics and programming. I'm interested in developing my professional career in machine learning applying my acquired knowledge and experience at implementing systems with a positive impact on our society.
 
@@ -23,14 +23,14 @@ I'm independent machine learning engineer and university professor with more tha
 
 - 🐍 Python 
 - 🗃️ SQL
-- © C / C++
+- :waning_crescent_moon: C / C++
 - 🤖 Arduino
 - 📐 Matlab / Octave
 
 
 #### Tools:
 
-- 😺 GitHub / GitLab / Git
+- :octocat: GitHub / GitLab / Git
 - 🆚 Visual Studio Code
 - 🌕 Jupyter Notebook
 - ☁ AWS
