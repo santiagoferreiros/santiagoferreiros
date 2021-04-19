@@ -30,7 +30,7 @@ I'm independent machine learning engineer and university professor with more tha
 
 #### Tools:
 
-- 🐈‍⬛GitHub / GitLab / Git
+- 😺 GitHub / GitLab / Git
 - 🆚 Visual Studio Code
 - 🌕 Jupyter Notebook
 - ☁ AWS
