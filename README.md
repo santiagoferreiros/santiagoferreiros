@@ -1,18 +1,26 @@
 ### Hi there 👋, I am Santiago
 
-I'm independent machine learning engineer and university professor with more than 13 years of experience teaching engineering subjects in the fields of mathematics and programming.
+I'm independent machine learning engineer and university professor with more than 13 years of experience teaching engineering subjects in the fields of mathematics and programming. I'm interested in developing my professional career in machine learning applying my acquired knowledge and experience at implementing systems with a positive impact on our society.
 
-I have a bachelor's degree in Information Systems Engineering (Universidad Tecnológica Nacional - Argentina 🇦🇷), and a master degree in Complex Systems Engineering (Université de technologie de Troyes - France). Since machine learning is my passion, I did a specialization offered by Google Cloud Training and other in Natural Language Processing (NLP) offered by deeplearning.ia
+Currently:
 
-I'm interested in developing my professional career in machine learning applying my acquired knowledge and experience at implementing systems with a positive impact on our society.
+- 🔭 Working on Computer Vision using StyleGAN and Pix2Pix models.
+- 🌱 Learning Generative Adversarial Networks (GAN's).  
+- 🎓 Teaching Maths and Programming at University (UTN - FRBA).
+- 🔬 Researching in Signal Processing using entropy and complexity measures.
+- 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
 
-- 🔭 I’m currently working on ...
+Languages: 
 
-- 🌱 I’m currently learning Generative Adversarial Networks (GAN's) 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, 
+- SQL
+- C / C++
+- Arduino
+- Matlab / Octave
+
+Tools:
+
+- Git / GitHub / GitLab
+- Visual Studio Code / 
+- Jupyter
+
