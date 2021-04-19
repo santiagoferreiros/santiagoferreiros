@@ -13,11 +13,10 @@ I'm independent machine learning engineer and university professor with more tha
 
 #### Machine Learning projects:
 
-- Student feedback sentiment analysis using logistic regression.
-- Automatic book summarization with probabilistic models.
-- Recommendation system to support learning process using KNN (K-Nearest Neighbor).
-- Predict cannabis consumption level according to personality.
-- Classification of cardiac arrhythmias using CNN (convolutional Neural Networks).
+- 📝 Student feedback sentiment analysis using logistic regression.
+- 🎓 Recommendation system to support learning process using KNN (K-Nearest Neighbor).
+- 🍁 Predict cannabis consumption level according to personality.
+- ❤ Classification of cardiac arrhythmias using CNN (convolutional Neural Networks).
 
 
 #### Programming Languages: 
@@ -38,3 +37,9 @@ I'm independent machine learning engineer and university professor with more tha
 - 🐧 Linux
 - 📅 Asana / Trello
 - 🗣️ Slack / Discord
+
+#### Contact:
+
+- 📩 santiago.ferreiros@gmail.com
+- 📍 Buenos Aires, Argentina
+- 👉 https://www.linkedin.com/in/santiagoferreiros/
