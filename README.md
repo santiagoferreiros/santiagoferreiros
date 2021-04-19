@@ -34,6 +34,7 @@ I'm independent machine learning engineer and university professor with more tha
 - 🆚 Visual Studio Code
 - 🌕 Jupyter Notebook
 - ☁ AWS
+- :whale: Docker
 - 🐧 Linux
 - 📅 Asana / Trello
 - 🗣️ Slack / Discord
