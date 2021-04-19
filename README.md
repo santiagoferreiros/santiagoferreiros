@@ -40,6 +40,6 @@ I'm independent machine learning engineer and university professor with more tha
 
 #### Contact:
 
-- 📩 santiago.ferreiros@gmail.com
 - 📍 Buenos Aires, Argentina
+- 📩 santiago.ferreiros@gmail.com
 - 👉 https://www.linkedin.com/in/santiagoferreiros/
