@@ -37,9 +37,3 @@ I'm independent machine learning engineer and university professor with more tha
 - 🐧 Linux
 - 📅 Asana / Trello
 - 🗣️ Slack / Discord
-
-#### Contact:
-
-- 📍 Buenos Aires, Argentina
-- 📩 santiago.ferreiros@gmail.com
-- 👉 https://www.linkedin.com/in/santiagoferreiros/
