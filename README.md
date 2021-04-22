@@ -32,7 +32,7 @@ I'm independent machine learning engineer and university professor with more tha
 
 - :octocat: GitHub / GitLab / Git
 - 🆚 Visual Studio Code
-- 🌕 Jupyter Notebook
+- 🌕 JupyterLab
 - ☁ AWS
 - :whale: Docker
 - 🐧 Linux
