@@ -29,15 +29,15 @@ I'm independent machine learning engineer and university professor with more tha
 
 postbox :postbox:
 mailbox :mailbox:
+argentina
 
 #### Tools:
 
-- :octocat: GitHub /  GitLab / Git
-- 🆚 Visual Studio Code
-- 🌕 JupyterLab
+- :octocat: GitHub / 🦊 GitLab /  Git
+- 🆚 Visual Studio Code / 🌕 JupyterLab
 - ☁ AWS
 - :whale: Docker
-- 
+- :postbox: Postman
 - 🐧 Linux
 - 📅 Asana / Trello
 - 🗣️ Slack / Discord
