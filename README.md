@@ -27,13 +27,10 @@ I'm independent machine learning engineer and university professor with more tha
 - 🤖 Arduino
 - 📐 Matlab / Octave
 
-postbox :postbox:
-mailbox :mailbox:
-argentina
 
 #### Tools:
 
-- :octocat: GitHub / 🦊 GitLab /  Git
+- :octocat: GitHub / 🦊 GitLab
 - 🆚 Visual Studio Code / 🌕 JupyterLab
 - ☁ AWS
 - :whale: Docker
