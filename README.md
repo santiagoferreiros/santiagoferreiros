@@ -36,5 +36,5 @@ I'm independent machine learning engineer and university professor with more tha
 -  :whale: Docker
 -  :postbox: Postman
 -  🐧 Linux
--  📅 Asana / Trello
+-  📅 Jira / Asana / Trello
 -  🗣️ Slack / Discord
